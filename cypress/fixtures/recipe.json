@@ -1,0 +1,16 @@
+{
+  "name": "Hamburger",
+  "time": 20,
+  "ingredients": [
+      {
+          "name": "Bun",
+          "amount": 1
+      },
+      {
+          "name": "Burger",
+          "amount": 1
+      }
+
+  ],
+  "instructions": "Flip your Burger"
+}
